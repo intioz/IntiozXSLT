@@ -1,4 +1,4 @@
-name := "AkkaStreamsXSLT"
+name := "IntiozXSLT"
 
 organization := "intioz"
 
